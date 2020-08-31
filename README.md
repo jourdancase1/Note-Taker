@@ -7,7 +7,7 @@ git clone https://github.com/jourdancase1/note-taker.git
 
 ### Usage
 From the command line, run npm install to install all dependencies, then run node server.js, then open http://localhost:3000 in the browser.
-    
+     
 ### License
 MIT
    
