@@ -12,5 +12,5 @@ From the command line, run npm install to install all dependencies, then run nod
 MIT
    
 ### Questions? Contact me at: 
-jourdancase11@gmail.com /n
+jourdancase11@gmail.com<br/>
 https://github.com/jourdancase1         
